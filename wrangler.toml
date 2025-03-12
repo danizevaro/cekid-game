@@ -1,6 +1,6 @@
 name = "cekid-games"
 type = "javascript"
-account_id = "CLOUDFLARE_ACCOUNT_ID"
+account_id = "291cba5f0319f4b5812fa077fee287b3"
 workers_dev = true
 main = "main.js"
 
