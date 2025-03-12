@@ -1,0 +1,7 @@
+name = "cekid-games"
+type = "javascript"
+account_id = "CLOUDFLARE_ACCOUNT_ID"
+workers_dev = true
+
+[vars]
+ENV = "production"
