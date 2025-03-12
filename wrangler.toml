@@ -3,6 +3,7 @@ type = "javascript"
 account_id = "291cba5f0319f4b5812fa077fee287b3"
 workers_dev = true
 main = "main.js"
+compatibility_date = "2025-03-12"
 
 [vars]
 ENV = "production"
